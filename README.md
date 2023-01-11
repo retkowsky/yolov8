@@ -7,3 +7,5 @@ YOLOv8 is designed to be fast, accurate, and easy to use, making it an excellent
 https://github.com/ultralytics/ultralytics
 
 <img src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/yolo-comparison-plots.png">
+
+11-Jan-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
