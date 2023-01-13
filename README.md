@@ -8,4 +8,10 @@ https://github.com/ultralytics/ultralytics
 
 <img src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/yolo-comparison-plots.png">
 
+
+<video width="320" height="240" controls>
+  <source src="object_detection_paris.mp4" type="video/mp4">
+</video>
+
+
 11-Jan-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
