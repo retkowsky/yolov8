@@ -8,6 +8,8 @@ https://github.com/ultralytics/ultralytics
 
 <img src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/yolo-comparison-plots.png">
 
+## Some examples
+<br>
 <img src="od.jpg">
 
 11-Jan-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
